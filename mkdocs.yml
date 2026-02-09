@@ -21,6 +21,7 @@ use_directory_urls: false
 
 nav:
   - "Home": index.md
+  - "Seedance 2": seedance-2-0-features-unveiled-empowering-global-e.md
 # 新文章将在此处自动添加
 
 markdown_extensions:
